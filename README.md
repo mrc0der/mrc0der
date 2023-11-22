@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrc0der)](https://github.com/mrc0der)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrc0der&layout=compact)](https://github.com/mrc0der)
 
-[![Jon's Github stats](https://github-readme-stats.vercel.app/api?username=mrc0der&count_private=true)](https://github.com/mrc0der)
+[![Jon's Github stats](https://github-readme-stats.vercel.app/api?username=mrc0der&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage))](https://github.com/mrc0der)
+
+[![Jon's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrc0der)](https://github.com/mrc0der/mrc0der](https://github.com/mrc0der))
 
 
 ### Acknowledgement
