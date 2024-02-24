@@ -3,6 +3,7 @@
 I'm Jon/JR - Sr. Manager with Elastic Engineering at Rackspace.
 
 - 🔭 I’m currently working on:
+  - All My Internal Projects: https://github.com/zerodaysec
   - https://links.jonprice.io
   - https://www.red-team.sh/
   - https://www.daily-devops.com/
