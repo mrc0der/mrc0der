@@ -24,4 +24,3 @@ I'm Jon/JR - Sr. Manager with Elastic Engineering at Rackspace.
 [![Jon's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mrc0der&layout=compact)](https://github.com/mrc0der)
 
 [![Jon's Github stats](https://github-readme-stats.vercel.app/api?username=mrc0der&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/mrc0der)
-[![Jon's Github stats](https://github-readme-stats.vercel.app/api?username=zerodaysec&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/zerodaysec)
