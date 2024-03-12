@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Jon/JR - Sr. Manager with Elastic Engineering at Rackspace.
+Jon (JR) Price is a Senior Manager in Elastic Engineering at Rackspace Technology. He works with his teams in the US and Europe to architect solutions to enable our customers to accelerate their cloud adoption with the best-of-breed solutions.
+
+He is a 15-year veteran in multiple areas including virtualization, cloud architectures, security, and technology consulting. Outside of work, he loves to spend time in his workshop building anything with his son, automotive photography, participates in security competitions, and spends time with his wife and children. He maintains many technical blogs aimed at sharing technology and innovation with all.
 
 - 🔭 I’m currently working on:
   - All My Internal Projects: https://github.com/zerodaysec
