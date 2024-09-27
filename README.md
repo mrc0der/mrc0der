@@ -2,7 +2,7 @@
 
 Jon (JR) Price is a Senior Manager in Elastic Engineering at Rackspace Technology. He works with his teams in the US and Europe to architect solutions to enable our customers to accelerate their cloud adoption with the best-of-breed solutions.
 
-[![My Skills](https://skillicons.dev/icons?i=aws,py,linux,ansible,azure,docker,github,kali,kubernetes)](https://jonprice.io)
+[![My Skills](https://skillicons.dev/icons?i=aws,py,linux,terraform,ansible,azure,docker,github,kali,kubernetes,windows)](https://jonprice.io)
 
 He is a 15-year veteran in multiple areas including virtualization, cloud architectures, security, and technology consulting. Outside of work, he loves to spend time in his workshop building anything with his son, automotive photography, participates in security competitions, and spends time with his wife and children. He maintains many technical blogs aimed at sharing technology and innovation with all.
 
